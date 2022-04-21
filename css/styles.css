@@ -320,7 +320,10 @@ ul {
 
 .work-item {
   position: relative;
+}
 
+img {
+  display: block;
 }
 
 .work-item:not(:last-child) {
